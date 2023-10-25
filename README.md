@@ -2,6 +2,8 @@
 
 This is a simple To-Do List application built using Python and the Tkinter library. It allows you to add, remove, and manage your tasks in a user-friendly interface. You can also save your to-do list to a file and load it from a file for convenience.
 
+![Screenshot](Screenshot.png)
+
 ## Features
 
 - **Add Tasks**: You can add tasks to your to-do list by typing them in the text entry field and clicking the "Add Task" button.
