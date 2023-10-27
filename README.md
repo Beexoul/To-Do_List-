@@ -42,7 +42,7 @@ To run the application, make sure you have Python installed on your system. You 
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/yourusername/todo-list.git
+   git clone https://github.com/beexoul/todo-list.git
    ```
 
 2. Change to the project directory:
